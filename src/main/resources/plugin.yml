@@ -1,0 +1,4 @@
+name: Nohunger
+version: '${project.version}'
+main: missingdrift.nohunger.Nohunger
+authors: [ MissingDrift ]
