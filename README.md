@@ -1,0 +1,3 @@
+# NoHunger
+
+Advanced hunger disable
